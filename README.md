@@ -4,15 +4,6 @@ This repository contains small, focused projects designed to practice and showca
 
 ---
 
----
-
-## **Mini Project Table**
-
-Here’s the updated **Mini Project Collection** template to reflect that only the 3rd and 4th projects are marked as completed:
-
----
-
-
 | **#** | **Project Name**                              | **Type**          | **Technologies**                              | **GitHub Repository** | **Live Demo** | **Status**      |
 |-------|-----------------------------------------------|-------------------|----------------------------------------------|-----------------------|---------------|-----------------|
 | **1** | File Upload API                               | Backend           | Express.js, Multer, Node.js                  | [Link](#)            | [Live](#)     | **Ongoing**     |
