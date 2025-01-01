@@ -16,6 +16,7 @@ This repository contains small, focused projects designed to practice and showca
 | **8** | Realtime Progress Tracker (Like Delivery)    | Backend           | Express.js, Socket.io                        | [Link](#)            | [Live](#)     | **Ongoing**     |
 | **9** | Real-Time Collaborative Editor               | Backend           | Express.js, Socket.io, QuillJS               | [Link](#)            | [Live](#)     | **Ongoing**     |
 | **10**| Role-Based Access Control (RBAC)             | Backend           | Express.js, JWT                              | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **#** |                                       **AI BASED PROJECT **                                                                                                                                  |
 | **11**| Image to Text Summarization API              | AI/ML             | Flask, Tesseract OCR, GPT-3/BERT             | [Link](#)            | [Live](#)     | **Ongoing**     |
 | **12**| Sentiment Analysis on User Reviews           | AI/ML             | Flask, Hugging Face transformers             | [Link](#)            | [Live](#)     | **Ongoing**     |
 | **13**| Speech to Text (Audio Transcription using DL)| AI/ML             | Python, DeepSpeech, Flask                    | [Link](#)            | [Live](#)     | **Ongoing**     |
