@@ -4,6 +4,34 @@ This repository contains small, focused projects designed to practice and showca
 
 ---
 
+---
+
+## **Mini Project Table**
+
+Here’s the updated **Mini Project Collection** template to reflect that only the 3rd and 4th projects are marked as completed:
+
+---
+
+
+| **#** | **Project Name**                              | **Type**          | **Technologies**                              | **GitHub Repository** | **Live Demo** | **Status**      |
+|-------|-----------------------------------------------|-------------------|----------------------------------------------|-----------------------|---------------|-----------------|
+| **1** | File Upload API                               | Backend           | Express.js, Multer, Node.js                  | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **2** | Email Verification System                    | Backend           | Node.js, Express, Nodemailer                 | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **3** | Real-time Notification Demo                  | Backend           | Express.js, Socket.io                        | [Link](#)            | [Live](#)     | **Completed**   |
+| **4** | Realtime Location Tracker                    | Backend           | Express.js, Socket.io, Leaflet.js            | [Link](#)            | [Live](#)     | **Completed**   |
+| **5** | WebRTC-based Audio/Video Call Demo           | Backend           | Express.js, WebRTC, Socket.io                | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **6** | One-Time Link/Token Generation               | Backend           | Express.js, JWT                              | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **7** | Real-Time Status Updates with WebSockets     | Backend           | Express.js, Socket.io                        | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **8** | Realtime Progress Tracker (Like Delivery)    | Backend           | Express.js, Socket.io                        | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **9** | Real-Time Collaborative Editor               | Backend           | Express.js, Socket.io, QuillJS               | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **10**| Role-Based Access Control (RBAC)             | Backend           | Express.js, JWT                              | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **11**| Image to Text Summarization API              | AI/ML             | Flask, Tesseract OCR, GPT-3/BERT             | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **12**| Sentiment Analysis on User Reviews           | AI/ML             | Flask, Hugging Face transformers             | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **13**| Speech to Text (Audio Transcription using DL)| AI/ML             | Python, DeepSpeech, Flask                    | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **14**| Personalized Recommendation System           | AI/ML             | Flask, Scikit-learn, TensorFlow              | [Link](#)            | [Live](#)     | **Ongoing**     |
+| **15**| AI-based Chatbot for FAQ Automation          | AI/ML             | Rasa, DialogFlow, Flask                      | [Link](#)            | [Live](#)     | **Ongoing**     |
+
+---
 ## **Projects**
 
 ### **1. File Upload API**
