@@ -14,6 +14,10 @@ A simple API for uploading files with validation, encryption, and storage capabi
   - File size and type validation
   - Local/Cloud storage support
   - File metadata in response
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **2. Email Verification System**
 A system for verifying email addresses using one-time links.
@@ -23,6 +27,10 @@ A system for verifying email addresses using one-time links.
   - Token-based link generation
   - Secure, single-use tokens
   - Link expiry validation
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **3. Real-time Notification Demo**
 Real-time notification delivery using WebSockets.
@@ -32,6 +40,10 @@ Real-time notification delivery using WebSockets.
   - Server-push notifications
   - Multi-client support
   - Native browser notifications (optional)
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **4. Realtime Location Tracker**
 Track and display real-time user locations on a map.
@@ -41,6 +53,10 @@ Track and display real-time user locations on a map.
   - Location tracking with WebSocket updates
   - Geographical map integration
   - Live location marker updates
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **5. WebRTC-based Audio/Video Call Demo**
 A peer-to-peer audio/video calling application.
@@ -50,6 +66,10 @@ A peer-to-peer audio/video calling application.
   - Direct user connections
   - Audio/Video communication
   - Disconnection handling
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **6. One-Time Link/Token Generation**
 Generate secure one-time-use links or tokens.
@@ -59,6 +79,10 @@ Generate secure one-time-use links or tokens.
   - Time-bound token validity
   - Secure API validation
   - Email notification integration
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **7. Real-Time Status Updates with WebSockets**
 Track the real-time status of operations or processes.
@@ -68,6 +92,10 @@ Track the real-time status of operations or processes.
   - Dynamic status updates
   - Broadcasting changes to clients
   - Flexible integration into other workflows
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **8. Realtime Progress Tracker (Like Delivery Status)**
 Track progress for deliveries or other multi-step processes.
@@ -77,6 +105,10 @@ Track progress for deliveries or other multi-step processes.
   - Progress tracking with live updates
   - UI-friendly progress indicators
   - Multi-task dashboard support
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **9. Real-Time Collaborative Editor**
 Collaborate on a single document with multiple users in real-time.
@@ -86,6 +118,10 @@ Collaborate on a single document with multiple users in real-time.
   - Live text synchronization
   - Real-time cursor and user tracking
   - Document change tracking
+- [GitHub Repository](#)  
+- [Live Demo](#)
+
+---
 
 ### **10. Role-Based Access Control (RBAC)**
 Manage resource access based on user roles.
@@ -94,7 +130,7 @@ Manage resource access based on user roles.
 - **Features:**
   - Role-based route protection
   - Middleware-based role validation
-  - Secure user management
+
 
 ---
 
